@@ -1,0 +1,115 @@
+{
+	"data": [{
+			"gender": "male",
+			"name": {
+				"title": "Mr",
+				"first": "Esat",
+				"last": "Erginsoy"
+			},
+			"location": {
+				"street": {
+					"number": 4519,
+					"name": "Bağdat Cd"
+				},
+				"city": "Adana",
+				"state": "Kocaeli",
+				"country": "Turkey",
+				"postcode": 47349,
+				"coordinates": {
+					"latitude": "76.9367",
+					"longitude": "-21.6399"
+				},
+				"timezone": {
+					"offset": "-12:00",
+					"description": "Eniwetok, Kwajalein"
+				}
+			},
+			"email": "esat.erginsoy@example.com",
+			"login": {
+				"uuid": "6607d086-7159-4c26-beb1-280c9f9cbf35",
+				"username": "silverbutterfly239",
+				"password": "this",
+				"salt": "EguLWlzm",
+				"md5": "fff8edaa8b92ccf1283839f28368f429",
+				"sha1": "12e9d6a8efbfedc940abfad65b34a639c3e7241e",
+				"sha256": "299e745d7f3c73c5e7a4a26f363da726ed964e155b3fbfd25d4b5c17cd2a6513"
+			},
+			"dob": {
+				"date": "1972-05-19T14:21:16.262Z",
+				"age": 49
+			},
+			"registered": {
+				"date": "2003-02-04T00:44:47.204Z",
+				"age": 18
+			},
+			"phone": "(596)-879-1384",
+			"cell": "(719)-718-6526",
+			"id": {
+				"name": "",
+				"value": null
+			},
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/78.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+			},
+			"nat": "TR"
+		},
+		{
+			"gender": "female",
+			"name": {
+				"title": "Mrs",
+				"first": "Emily",
+				"last": "Holmes"
+			},
+			"location": {
+				"street": {
+					"number": 6851,
+					"name": "Harrison Ct"
+				},
+				"city": "Odessa",
+				"state": "New York",
+				"country": "United States",
+				"postcode": 80620,
+				"coordinates": {
+					"latitude": "79.9632",
+					"longitude": "148.5308"
+				},
+				"timezone": {
+					"offset": "+10:00",
+					"description": "Eastern Australia, Guam, Vladivostok"
+				}
+			},
+			"email": "emily.holmes@example.com",
+			"login": {
+				"uuid": "468fa5aa-c00e-4f71-951f-607a79b26299",
+				"username": "whitegorilla108",
+				"password": "bearbear",
+				"salt": "ac59Bfhv",
+				"md5": "c86c4356af624a4a9b7c55ef71345b52",
+				"sha1": "ad491dc877412d244397425c2debd09942a6d927",
+				"sha256": "f5e7e6f7a2cd6bb559cc2323dc13d5e77e47a16090fa0dc03d79df1e8132926b"
+			},
+			"dob": {
+				"date": "1971-03-17T06:09:20.435Z",
+				"age": 50
+			},
+			"registered": {
+				"date": "2014-01-27T07:56:54.282Z",
+				"age": 7
+			},
+			"phone": "(671)-315-6645",
+			"cell": "(388)-814-9940",
+			"id": {
+				"name": "SSN",
+				"value": "999-16-2379"
+			},
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/women/42.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+			},
+			"nat": "US"
+		}
+    ]
+}
